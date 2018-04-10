@@ -1,0 +1,6 @@
+framework module Pods_WhatsApp_MVP {
+  umbrella header "Pods-WhatsApp MVP-umbrella.h"
+
+  export *
+  module * { export * }
+}
